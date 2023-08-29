@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Events</title>
+        <link rel="Icon" href="img/date.png">
+    </head> 
+    <body bgcolor="black" style="color: whitesmoke;">
+        <center>
+    <h1>Upcoming Events 📆</h1>
+    <p>Don't miss any of the important events. Stay Updated</p>
+    <hr>
+</center>
+<p>
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique aliquid veritatis libero, id perferendis 
+    incidunt aliquam perspiciatis, deleniti distinctio porro iusto. Quas quaerat expedita quasi dolores inventore 
+    quidem iure ullam voluptate provident perspiciatis officia, officiis et sed nemo tempora iste quos voluptates 
+    cum molestias minus nobis, deserunt vero suscipit unde. Aliquid veniam reprehenderit pariatur nostrum consequatur 
+    est voluptas cumque voluptatum dolore aliquam debitis rerum iste quia inventore omnis illo earum, eveniet fuga vel
+    ullam veritatis aspernatur ipsum quaerat officiis? Officiis ut nobis architecto? Quod, beatae, cumque dignissimos 
+    dolorum dolore quia blanditiis vero qui alias iure dolor cupiditate. Quae vitae ex aliquid at eaque obcaecati, 
+    perferendis quaerat ad exercitationem amet aspernatur sequi cumque eius magni quasi, accusamus modi consequatur.
+</p>
+<center><img src="img/event1.png">
+    <h1>Photo Gallery</h1>
+    <h2>Free Entry | Free Food | Pets are not Allowed</h2>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequuntur esse maiores fugiat laudantium dolorem aut nam iste, qui dolores in accusamus reiciendis quo temporibus at repellat nisi repudiandae eos laborum amet iure sed odit praesentium. Est nemo illo ab quasi. Aperiam repellat eveniet non atque necessitatibus rem perspiciatis natus sunt.</p>
+
+</center>
+
+<center>
+    <img src="img/event2.png">
+    <h1><a href="https://www.myntra.com/">Fashion Store</a></h1>
+    <h2>Free Entry | Free Food | Pets are not Allowed</h2>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequuntur esse maiores fugiat laudantium dolorem aut 
+       nam iste, qui dolores in accusamus reiciendis quo temporibus at repellat nisi repudiandae eos laborum amet iure 
+       sed odit praesentium. Est nemo illo ab quasi. Aperiam repellat eveniet non atque necessitatibus rem perspiciatisnatus sunt.</p>
+
+</center>
+<hr>
+<center>
+    <h1>Contact Details</h1>
+    <h2>+91 987876543223 | eventcollab@gmail.com</h2>
+    <p>9th street avenue park, Dallas, 89789,</p>
+</center>
+    </body>
+</html>
